@@ -1,6 +1,6 @@
 {
-  "name": "Dainandini Planner",
-  "short_name": "Dainandini",
+  "name": "Planner by V C Srivastava",
+  "short_name": "My-Planner",
   "description": "Calendar, tasks and dated notes, saved on your phone.",
   "start_url": "./",
   "scope": "./",
